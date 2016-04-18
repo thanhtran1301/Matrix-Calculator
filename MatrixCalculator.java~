@@ -1,22 +1,8 @@
 /* ---------------------------------------------------------------------------
  *  Matrix Calculator - Java Application Version
- *  Original Date: October 1997
- *  Updated Swing GUI: June 2002
- *
- *  Version      : $Revision: 1.6 $
- *  Last Modified: $Date: 2005/06/30 06:28:10 $
- *
- *  Author: Marcus Kazmierczak
- *          marcus@mkaz.com
- *          http://www.mkaz.com/math/
- *
- *  Copyright (c) 1997-2002 mkaz.com
- *  Published under a BSD Open Source License
- *  More Info: http://mkaz.com/software/mklicense.html
  *  
- *  Edited by Pierre Seguin on june 30, 2005
- *  seguin_pierre@yahoo.ca
- *
+ *  Author: Thanh Tran
+ *          thanh.t.tran1301@gmail.com
  *  --------------------------------------------------------------------------- 
  */
 import java.awt.BorderLayout;
